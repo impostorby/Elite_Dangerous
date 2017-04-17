@@ -42,7 +42,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/impostorby/Elite_Dangerous/blob/master/Elite_Dangerous/fon_1.jpg) !important; /* IMPORTANT: Ссылка должна быть с HTTPS! */
+    background-image: url(https://github.com/impostorby/Elite_Dangerous/raw/master/Elite_Dangerous/fon_1.jpg) !important; /* IMPORTANT: Ссылка должна быть с HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
