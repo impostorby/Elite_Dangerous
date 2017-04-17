@@ -4,7 +4,7 @@
 /* Based on "ClearVision - Amber" by @Omniscient & "DarkMatter" by @Hammock */
 
 /* IMPORT CSS FROM GITHUB */
-@import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
+@import url(https://github.com/impostorby/Elite_Dangerous/blob/master/Elite_Dangerous/Elite_Dangerous.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
@@ -43,7 +43,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/amber.jpg) !important; /* IMPORTANT: Ссылка должна быть с HTTPS! */
+    background-image: url(https://github.com/impostorby/Elite_Dangerous/blob/master/Elite_Dangerous/fon_1.jpg) !important; /* IMPORTANT: Ссылка должна быть с HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
