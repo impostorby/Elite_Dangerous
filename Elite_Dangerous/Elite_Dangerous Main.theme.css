@@ -1,0 +1,11 @@
+//META{"name":"Elite Dangerous","description":"Тема на тематику игры Elite Dangerous с настраиваемым цветом и фоном</br> Переписал <a href='https://github.com/impostorby' target='_blank'>@Liar</a> <span style='position: absolute; bottom: 0; left: 0;'>Ссылки: <b><a href='https://github.com/impostorby' target='_blank'>Github</a></b> | <b><a href='https://discord.gg/qjBTrCd' target='_blank'>Discord Achelous</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/impostorby' target='_blank'>@Liar</a></b></span>","author":"<a href='https://github.com/impostorby' target='_blank'>@Liar</a>","version":"1"}*//{}
+/* "Elite Dangerous v1" by @Liar */
+/* Based on "ClearVision - Amber" by @Omniscient & "DarkMatter" by @Hammock */
+
+/* IMPORT CSS FROM GITHUB */
+@import url(https://github.com/impostorby/Elite_Dangerous/blob/master/Elite_Dangerous/Elite_Dangerous.theme.css);
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
